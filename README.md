@@ -1,5 +1,9 @@
 # Flutter-Master
 
+### Code Snippets
+
+Basic form validation [Go](/Code%20Snippets/Form%20Validation)
+
 ### Dart
 
 Extension methods [Go](/Dart/Extension%20Methods)
