@@ -1,5 +1,9 @@
 # Flutter-Master
 
+### Animations
+
+Implicit animations [Go](/Animations/Implicit%20Animations)
+
 ### Code Snippets
 
 Basics of form validation [Go](/Code%20Snippets/Form%20Validation)
@@ -18,4 +22,6 @@ Cubit package basics [Go](/State%20Management/Cubit%20basics)
 
 ### Helpful Packages
 
-Flutter Hooks [Go](/Helpful%20Packages/flutter_hooks)
+Basics of Flutter Hooks [Go](/Helpful%20Packages/flutter_hooks/baiscs)
+
+Creating Custom Hook [Go](/Helpful%20Packages/flutter_hooks/custom%20hooks)
