@@ -4,6 +4,8 @@
 
 Implicit animations [Go](/Animations/Implicit%20Animations)
 
+Tween animation builder [Go](/Animations/Tween%20Animation%20Builder)
+
 ### Code Snippets
 
 Basics of form validation [Go](/Code%20Snippets/Form%20Validation)
