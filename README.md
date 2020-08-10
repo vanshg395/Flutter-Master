@@ -6,6 +6,10 @@ Implicit animations [Go](/Animations/Implicit%20Animations)
 
 Tween animation builder [Go](/Animations/Tween%20Animation%20Builder)
 
+Explicit animations [Go](/Animations/Explicit%20Animations/)
+
+Combined animations [Go](/Animations/Combined%20Animations/)
+
 ### Code Snippets
 
 Basics of form validation [Go](/Code%20Snippets/Form%20Validation)
