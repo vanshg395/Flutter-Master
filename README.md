@@ -16,6 +16,16 @@ Basics of form validation [Go](/Code%20Snippets/Form%20Validation)
 
 Basics of future builder [Go](/Code%20Snippets/Future%20Builder)
 
+Basics of alert dialog [Go](/Code%20Snippets/Alert%20Dialog)
+
+Basics of bottom appbar [Go](/Code%20Snippets/Bottom%20Appbar)
+
+Basics of cupertino app [Go](/Code%20Snippets/Cupertino%20App)
+
+Basics of draggable & drop target [Go](/Code%20Snippets/Draggable)
+
+Linear Progress Indicator [Go](/Code%20Snippets/Linear%20Progress%20Indicator)
+
 ### Dart
 
 Extension methods [Go](/Dart/Extension%20Methods)
