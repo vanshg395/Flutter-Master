@@ -26,6 +26,8 @@ Basics of draggable & drop target [Go](/Code%20Snippets/Draggable)
 
 Linear Progress Indicator [Go](/Code%20Snippets/Linear%20Progress%20Indicator)
 
+Basics of BackdropFilter [Go](/Code%20Snippets/Backdrop%20Filter)
+
 ### Dart
 
 Extension methods [Go](/Dart/Extension%20Methods)
